@@ -56,6 +56,16 @@
       <version>2.9.0</version>
     </dependency>
     <dependency>
+      <groupId>com.squareup.retrofit2</groupId>
+      <artifactId>converter-scalars</artifactId>
+      <version>2.9.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.squareup.okhttp3</groupId>
+      <artifactId>logging-interceptor</artifactId>
+      <version>4.9.0</version>
+    </dependency>
+    <dependency>
       <groupId>org.jetbrains.kotlinx</groupId>
       <artifactId>kotlinx-coroutines-android</artifactId>
       <version>1.5.0</version>
@@ -69,16 +79,6 @@
       <groupId>org.jetbrains.kotlinx</groupId>
       <artifactId>kotlinx-serialization-json</artifactId>
       <version>1.2.1</version>
-    </dependency>
-    <dependency>
-      <groupId>com.google.iot.cbor</groupId>
-      <artifactId>cbor</artifactId>
-      <version>0.01.02</version>
-    </dependency>
-    <dependency>
-      <groupId>com.github.weliem</groupId>
-      <artifactId>blessed-android</artifactId>
-      <version>2.0.5</version>
     </dependency>
     <dependency>
       <groupId>org.jetbrains.kotlinx</groupId>
